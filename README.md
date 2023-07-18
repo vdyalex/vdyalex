@@ -778,7 +778,7 @@ Expert in designing and developing cutting-edge applications focused on informat
 
 ---
 
-<p align="center">Follow the white rabbit 🐇</p>
+<p align="center">Ask your three wishes 🧞‍♂️</p>
 <!--
 <p align="center">
   <a href="https://www.buymeacoffee.com/alexndreazevedo">
