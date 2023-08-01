@@ -778,7 +778,7 @@ Expert in designing and developing cutting-edge applications focused on informat
 
 ---
 
-<p align="center">Ask your three wishes 🧞‍♂️</p>
+<p align="center">🧞‍♂️ Get ready to make your three wishes</p>
 <!--
 <p align="center">
   <a href="https://www.buymeacoffee.com/alexndreazevedo">
