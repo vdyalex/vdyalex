@@ -2,7 +2,7 @@
 
 ### About me
 
-Software Architect with 20+ years of experience in software engineering focused on solutions for web, mobile, and integrations.
+Solutions Architect with 20+ years of experience in software engineering focused on solutions for web, mobile, and integrations.
 
 Expert in designing and developing cutting-edge applications focused on information security and software integration. Committed to achieving results, self-motivated, well organized, and with a good eye for detail. Passionate about learning new technologies.
 
