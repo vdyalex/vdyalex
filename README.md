@@ -1,13 +1,99 @@
 <h1 align="center">Hello, I am Alex 👋</h1>
 
-### About me
+# About me
 
 Solutions Architect with 20+ years of experience in software engineering focused on solutions for web, mobile, and integrations.
 
 Expert in designing and developing cutting-edge applications focused on information security and software integration. Committed to achieving results, self-motivated, well organized, and with a good eye for detail. Passionate about learning new technologies.
 
-### Technical skills
+# Technical skills
 
+As a software developer, I started software development in 2006 using PHP, Java, JavaScript, and ColdFusion, and relational databases such as MySQL and PostgreSQL, along with experience in the development of desktop software using Delphi and Object Pascal, as well as ActionScript for Flash. 
+
+In 2010, I had matured in development, and I learned to code in Python and Perl. 
+
+Later, in 2011, I had a few projects in Ruby. My Node.js experience started in 2013, along with NoSQL and in-memory databases like MongoDB, CouchDB, and Redis.
+
+In 2014, I experienced a range of front-end frameworks such as AngularJS, Backbone, and Ember, replacing the traditional jQuery. I also first experienced mobile development using Swift for iOS and Java for Android for native development, and Ionic, Cordova, and PhoneGap for hybrid development.
+
+In 2016, I improved my skills in front-end development with React and Angular 2, which I mentored at volunteering programs, adding Vue.js as another skill to mentor later that year.
+
+In 2017, I added React Native to my skill set later in 2017, and I had my first project using Microsoft Azure.
+
+In 2018, it was my first experience working in the role of Solutions Architect, where I heavily utilized AWS (Amazon Web Services) and significantly developed my DevOps skills and used containerization and provisioning tools such as Docker, Kubernetes, Chef, and Ansible, as well as setting multiple CI/CD pipelines. Another milestone was adding processing queues, such as Apache Kafka and RabbitMQ, for optimizing high-traffic applications, and a combination of different types of databases like relational, document-based, time-series, graph, and in-memory databases.
+
+In 2019, working as a dedicated Solutions Architect, I experienced different types of systems and optimizations for heavy traffic applications, expanding the number of tools used both in AWS and GCP (Google Cloud Platform). In the same year, I had my first experience working with Go (Golang) and started studying about Blockchain technologies, including Solidity and Smart Contracts, with sporadic work in Rust.
+
+In 2021, as a Solutions Architect, I was the ultimate technical person responsible for an entire platform with the most varied disciplinary teams distributed across multiple time zones. This challenge required me to find solutions to integrate the deliverables with processes and seamless communication, where I deeply invested my time into scaling up teams in structured processes with Agile methodologies like Scrum, SAFe (Scaled Agile Framework), and Kanban, using several tools for facilitating the integration of this type of environment. It was the time when orchestration, continuous integration, and delivery, along with multiple testing paradigms, were put into action.
+
+All relevant frameworks, databases, libraries, tools, and platforms with hands-on experience are listed below:
+
+
+## Back-end Development
+
+**PHP:** Zend, Symfony, Laravel, Phalcon, CakePHP, CodeIgniter, Drupal, Wordpress, AMP, Twig, Blade, PHPUnit, Doctrine, PEAR/PECL, Composer
+
+**Ruby:** Ruby on Rails, RSpec, Capybara, Minitest, ActiveRecord 
+
+**Python:** FastAPI, Django, Flask, PyTorch, TensorFlow, NumPy, Pandas, SciPy, PyUnit, Behave, Lettuce, Celery, Huey, Poetry, SQLAlchemy, Alembic, Gunicorn
+Node (NodeJS): NestJS, Next.js, Express, Fastify, Koa, Hapi, Sails, Restify, Strapi, Sequelize, Prisma, TypeORM, AVA, Jest, Jasmine, Mocha
+
+**Java:** Spring, Spring Boot, Maven, Grails, Blade, Hibernate, jUnit, Selenium, Mockito, Gradle
+
+**Go (Golang):** Gin, Echo, Go Fiber, Go-kit, GORM, Cobra
+
+**Databases:** MySQL, PostgreSQL, Oracle, MongoDB, MariaDB, Neo4j, Elasticsearch, Cassandra, Redis, RethinkDB, CouchDB, Couchbase, SQLite, TimescaleDB, Firebase, Firestore, Fireblocks, Knack, Snowflake
+
+**Processing Queues:** Apache Kafka, RabbitMQ, AMPQ, ActiveMQ, PubNub
+
+**Communication Protocols:** REST, SOAP/WSDL, GraphQL, RPC, gRPC, LDAP, OpenID, OAuth2, SAML
+
+**Other Programming Languages:** Rust, Solidity, Groovy, Perl, C++, C#, C, Bash, Apex (Salesforce)
+
+
+## Front-end Development
+
+**Languages:** JavaScript, Typescript, WebAssembly, ActionScript, CoffeeScript, Dart, CSS, HTML
+
+**Frameworks:** React, Angular, Vue, Backbone, Ember, Tailwind
+
+**Processors:** Webpack, Parcel, Vite, esbuild, Rollup, Sass, Less 
+
+**Libraries:** RxJS, Redux, D3.js, Cypress, Jest, Mocha, Karma, Protractor, Styled Components, Emotion
+
+#### Mobile Development
+
+**iOS:** Swift, Objective-C, SwiftUI, Swift Package Manager, CocoaPods, Combine, Alamofire, Realm, Snapkit, RXSwift, Hero, Masonry, jazzy, Swift Testing, XCTest, XCUITest, Human Interface Guidelines 
+
+**Android:** Kotlin, Java, Jetpack Compose, Dagger2, Hilt, Picasso, Kotlin Coroutines, GreenDAO, RXJava2, Espresso, Mockito, Material Design
+
+**Hybrid:** React Native, Ionic, Cordova, PhoneGap
+
+
+## Cloud Engineering
+
+**Amazon Web Services (AWS):** EC2, EFS, S3, Glacier, Lambda, Lightsail, Kinesis, EventBridge, SageMaker, Elastic Beanstalk, Fargate, ECS, EKS, ECR, App Runner, Aurora, DocumentDB, DynamoDB, RDS, Redshift, ElastiCache, MemoryDB, Timestream, SES, SNS, SQS, MSK, Amplify, AppSync, CloudFront, API Gateway, CloudFormation, IAM, Cognito, KMS, Secrets Manager, Shield, GuardDuty, ELB
+
+**Google Cloud Platform (GCP):** Compute Engine, App Engine, Cloud Run, Kubernetes Engine, Artifact Registry, BigQuery, Firebase, Firestore, Pub/Sub, Cloud CDN, Cloud NAT, Virtual Private Cloud, Cloud Storage, Filestore, Cloud IAM, Cloud Key Management, Cloud Identity, Cloud Load Balancing 
+
+**Servers:** Nginx, Apache httpd, Apache Tomcat, IIS, Lighttpd
+
+**CI/CD:** Jenkins, CircleCI, Buildkite, Bitrise, TeamCity, AppCenter, Bamboo, GitLab, Github Actions
+
+**Virtualization and Provisioning:** Chef, Ansible, Terraform, Pulumi, Puppet, Docker, Kubernetes, Vagrant
+
+
+## Additional Software
+
+**Project:** Jira, Jira Align, Microsoft Project, Trello, Monday, Asana, Confluence
+
+**Product:** Jira Product Discovery, Notion, Miro, ProductBoard, Prodpad, Craft.io, Canny
+
+**Graphics & Design:** Photoshop, Illustrator, Lightroom, Illustrator, InDesign, Figma, Figjam, Zeplin, Maze
+
+**Analytics & BI:** Hotjar, Fullstory, Tableau, Splunk, Snowflake, VWO, Amplitude, Segment, Fivetran
+
+<!--
 <p align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img
@@ -771,18 +857,14 @@ Expert in designing and developing cutting-edge applications focused on informat
   </a>
 </p>
 
-<!--
 ### Statistics
-
-![Metrics](https://metrics.lecoq.io/alexndreazevedo?template=classic&base.header=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York&config.order=base.header%2Cachievements%2Cbase&config.octicon=true&config.display=large) -->
+![Metrics](https://metrics.lecoq.io/alexndreazevedo?template=classic&base.header=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York&config.order=base.header%2Cachievements%2Cbase&config.octicon=true&config.display=large)
+-->
 
 ---
 
-<p align="center">🧞‍♂️ Get ready to make your three wishes</p>
-<!--
 <p align="center">
   <a href="https://www.buymeacoffee.com/alexndreazevedo">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="33" width="140" alt="alexndreazevedo" />
   </a>
 </p>
--->
