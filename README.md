@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I am Alex 👋</h1>
 
-# About me
+## About me
 
-Solutions Architect with 20+ years of experience in software engineering focused on solutions for web, mobile, and integrations.
+I am a Solutions Architect with 20+ years of experience in software engineering focused on solutions for web, mobile, and integrations.
 
 Expert in designing and developing cutting-edge applications focused on information security and software integration. Committed to achieving results, self-motivated, well organized, and with a good eye for detail. Passionate about learning new technologies.
 
-# Technical skills
+## Technical skills
 
 All relevant frameworks, databases, libraries, tools, and platforms with hands-on experience are listed below:
 
@@ -83,11 +83,3 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 
 - **Analytics & BI:** [Hotjar](https://hotjar.com), [Fullstory](https://fullstory.com), [Tableau](https://tableau.com), [Splunk](https://splunk.com), [Snowflake](https://snowflake.com), [VWO](https://vwo.com), [Amplitude](https://amplitude.com), [Segment](https://segment.com), [Fivetran](https://fivetran.com)
 </details>
-
----
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/alexndreazevedo">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="33" width="140" alt="alexndreazevedo" />
-  </a>
-</p>
