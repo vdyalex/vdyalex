@@ -43,7 +43,7 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 
 - **Processors:** [Webpack](https://webpack.js.org), [Parcel](https://parceljs.org), [Vite](https://vite.dev), [esbuild](https://esbuild.github.io), [Rollup](https://rollupjs.org), [Sass](https://sass-lang.com), [Less](https://lesscss.org)
 
-- **Libraries:** [RxJS](https://rxjs.dev), [Redux](https://redux.js.org), [D3.js](https://d3js.org), [Cypress](https://cypress.io), [Jest](https://jestjs.io), [Mocha](https://mochajs.org), [Karma](https://karma-runner.github.io/latest/index.html), [Styled Components](https://styled-components.com), [Emotion](https://emotion.sh)
+- **Libraries:** [RxJS](https://rxjs.dev), [Redux](https://redux.js.org), [Zustand](https://zustand.docs.pmnd.rs), [D3.js](https://d3js.org), [Cypress](https://cypress.io), [Jest](https://jestjs.io), [Mocha](https://mochajs.org), [Karma](https://karma-runner.github.io/latest/index.html), [Styled Components](https://styled-components.com), [Emotion](https://emotion.sh)
 </details>
 
 <details>
@@ -53,7 +53,7 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 
 - **Android:** [Kotlin](https://kotlinlang.org), [Java](https://www.oracle.com/java/technologies/mobile-devices-downloads.html), [Jetpack Compose](https://developer.android.com/compose), [Dagger2](https://dagger.dev), [Hilt](https://dagger.dev/hilt), [Picasso](https://square.github.io/picasso), [GreenDAO](https://greenrobot.org/greendao), [RXJava2](https://github.com/ReactiveX/RxJava), [Espresso](https://developer.android.com/training/testing/espresso), [Mockito](https://site.mockito.org), [Material Design](https://m3.material.io)
 
-- **Hybrid:** [Expo](https://expo.dev), [React Native](https://reactnative.dev), [Ionic](https://ionicframework.com), [Cordova](https://cordova.apache.org)
+- **Hybrid:** [Expo](https://expo.dev), [React Native](https://reactnative.dev), [Ionic](https://ionicframework.com), [Cordova](https://cordova.apache.org), [Electron](https://electronjs.org)
 </details>
 
 <details>
