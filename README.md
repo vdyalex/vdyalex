@@ -2,16 +2,13 @@
 
 <p align="center">
 <a href="#user-activity-overview">Activity</a> &nbsp;&bull;&nbsp;
-<a href="##js-contribution-activity">Contribution</a> &nbsp;&bull;&nbsp;
+<a href="#js-contribution-activity">Contribution</a> &nbsp;&bull;&nbsp;
 <a href="#background">Background</a> &nbsp;&bull;&nbsp;
-<a href="https://linkedin.com/in/vdyalex">LinkedIn</a> &nbsp;&bull;&nbsp;
-<a href="https://t.me/vdyalex">Telegram</a>
-<br />
-<a href="#technical-skills-frontend">Back-end</a> &nbsp;&bull;&nbsp;
+<a href="#technical-skills-backend">Back-end</a> &nbsp;&bull;&nbsp;
 <a href="#technical-skills-frontend">Front-end</a> &nbsp;&bull;&nbsp;
-<a href="#technical-skills-frontend">Mobile</a> &nbsp;&bull;&nbsp;
-<a href="#technical-skills-frontend">Cloud</a> &nbsp;&bull;&nbsp;
-<a href="#technical-skills-frontend">Extra</a>
+<a href="#technical-skills-mobile">Mobile</a> &nbsp;&bull;&nbsp;
+<a href="#technical-skills-cloud">Cloud</a> &nbsp;&bull;&nbsp;
+<a href="#technical-skills-extra">Extra</a>
 </p>
 
 ## About me
@@ -21,7 +18,7 @@ I am a Solutions Architect with 20+ years of experience in software engineering 
 Expert in designing and developing cutting-edge applications focused on information security and software integration. Committed to achieving results, self-motivated, well organized, and with a good eye for detail. Passionate about learning new technologies.
 
 <details>
-<summary><h4>Background</h4></summary>
+<summary><h3>Background</h3></summary>
 <a name="background"></a>
 
 - Started software development in 2006 using PHP, Java, JavaScript, ColdFusion, MySQL, PostgreSQL, and desktop tools like Delphi and Flash (ActionScript).
@@ -43,7 +40,7 @@ Expert in designing and developing cutting-edge applications focused on informat
 All relevant frameworks, databases, libraries, tools, and platforms with hands-on experience are listed below:
 
 <details>
-<summary>Back-end Development</summary>
+<summary><h3>Back-end Development</h3></summary>
 <a name="technical-skills-backend"></a>
 
 - **PHP:** [Symfony](https://symfony.com), [Laravel](https://laravel.com), [Phalcon](https://phalcon.io), [CakePHP](https://cakephp.org), [CodeIgniter](https://codeigniter.com), [Drupal](https://drupal.org), [Wordpress](https://wordpress.com), [AMP](https://amphp.org), [Twig](https://twig.symfony.com), [Blade](https://laravel.com/docs/master/blade), [PHPUnit](https://phpunit.de), [Doctrine](https://doctrine-project.org), [PEAR](https://pear.php.net)/[PECL](https://pecl.php.net), [Composer](https://getcomposer.org)
@@ -69,7 +66,7 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 </details>
 
 <details>
-<summary>Front-end Development</summary>
+<summary><h3>Front-end Development</h3></summary>
 <a name="technical-skills-frontend"></a>
 
 - **Languages:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Typescript](https://www.typescriptlang.org), [WebAssembly](https://webassembly.org), [ActionScript](https://apache.github.io/royale-docs/features/as3), [CoffeeScript](https://coffeescript.org), [Dart](https://dart.dev), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -83,7 +80,7 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 </details>
 
 <details>
-<summary>Mobile Development</summary>
+<summary><h3>Mobile Development</h3></summary>
 <a name="technical-skills-mobile"></a>
 
 - **iOS:** [Swift](https://swift.org), [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC), [SwiftUI](https://developer.apple.com/xcode/swiftui), [Swift Package Manager](https://swift.org/documentation/package-manager), [CocoaPods](https://cocoapods.org), [Combine](https://developer.apple.com/documentation/combine), [Alamofire](https://github.com/Alamofire/Alamofire), [Realm](https://github.com/realm/realm-swift), [Snapkit](https://snapkit.github.io/SnapKit), [RXSwift](https://github.com/ReactiveX/RxSwift), [Hero](https://herotransitions.github.io/Hero), [jazzy](https://github.com/realm/jazzy), [Swift Testing](https://developer.apple.com/xcode/swift-testing), [XCTest/XCUITest](https://developer.apple.com/documentation/xctest), [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
@@ -95,7 +92,7 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 </details>
 
 <details>
-<summary>Cloud Engineering</summary>
+<summary><h3>Cloud Engineering</h3></summary>
 <a name="technical-skills-cloud"></a>
 
 - **Amazon Web Services (AWS):** [EC2](https://aws.amazon.com/ec2), [EFS](https://aws.amazon.com/efs), [S3](https://aws.amazon.com/s3), [Glacier](https://aws.amazon.com/s3/storage-classes/glacier), [Lambda](https://aws.amazon.com/lambda), [Lightsail](https://aws.amazon.com/lightsail), [Kinesis](https://aws.amazon.com/kinesis), [EventBridge](https://aws.amazon.com/eventbridge), [SageMaker](https://aws.amazon.com/sagemaker), [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk), [Fargate](https://aws.amazon.com/fargate), [ECS](https://aws.amazon.com/ecs), [EKS](https://aws.amazon.com/eks), [ECR](https://aws.amazon.com/ecr), [App Runner](https://aws.amazon.com/apprunner), [RDS](https://aws.amazon.com/rds), [Aurora](https://aws.amazon.com/rds/aurora), [DocumentDB](https://aws.amazon.com/documentdb), [DynamoDB](https://aws.amazon.com/dynamodb), [Redshift](https://aws.amazon.com/redshift), [ElastiCache](https://aws.amazon.com/elasticache), [MemoryDB](https://aws.amazon.com/memorydb), [Timestream](https://aws.amazon.com/timestream), [SES](https://aws.amazon.com/ses), [SNS](https://aws.amazon.com/sns), [SQS](https://aws.amazon.com/sqs), [MSK](https://aws.amazon.com/msk), [Amplify](https://aws.amazon.com/amplify), [AppSync](https://aws.amazon.com/appsync), [CloudFront](https://aws.amazon.com/cloudfront), [API Gateway](https://aws.amazon.com/api-gateway), [CloudFormation](https://aws.amazon.com/cloudformation), [IAM](https://aws.amazon.com/iam), [Cognito](https://aws.amazon.com/cognito), [KMS](https://aws.amazon.com/kms), [Secrets Manager](https://aws.amazon.com/secrets-manager), [Shield](https://aws.amazon.com/shield), [GuardDuty](https://aws.amazon.com/guardduty), [ELB](https://aws.amazon.com/elasticloadbalancing)
@@ -111,8 +108,8 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 </details>
 
 <details>
-<summary>Additional Skills</summary>
-<a name="technical-skills-additional"></a>
+<summary><h3>Extra Skills</h3></summary>
+<a name="technical-skills-extra"></a>
 
 - **Methodologies:** [Scrum](https://scrum.org), [Kanban](https://atlassian.com/agile/kanban), [Lean](https://atlassian.com/agile/project-management/lean-methodology), [eXtreme Programming (XP)](http://extremeprogramming.org), [SAFe (Scaled Agile Framework)](https://framework.scaledagile.com), [Design Thinking](https://designthinking.ideo.com)
 
