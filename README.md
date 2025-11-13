@@ -13,9 +13,8 @@ Expert in designing and developing cutting-edge applications focused on informat
 - Started with Node.js and NoSQL (MongoDB, CouchDB, Redis) in 2013.
 - In 2014, worked with front-end frameworks and mobile.
 - Improved front-end skills in 2016 with React, Angular 2, and Vue.js.
-  Added React Native and started using Microsoft Azure in 2017.
-- Became a Solutions Architect in 2018, focusing on AWS, DevOps, CI/CD, and message queues.
-  Used multiple types of databases, including time-series and graph.
+  Added React Native and started using Azure in 2017.
+- Became a Solutions Architect in 2018, focusing on AWS, DevOps and CI/CD. Used multiple types of databases and message queues, including time-series and graph.
 - In 2019, expanded expertise in AWS, GCP, Golang, Blockchain (Solidity, Smart Contracts), and Rust.
 - In 2021, led platform-wide architecture as a Solutions Architect with distributed teams. Focused on team scaling, Agile methodologies (Scrum, SAFe, Kanban), CI/CD, orchestration, and testing practices.
 
