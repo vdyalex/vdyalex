@@ -105,7 +105,7 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 
 </details>
 
-## Links
+## 🔗 Links
 
 <p>
   <a href="https://linkedin.com/in/vdyalex" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B66C2.svg?&style=for-the-badge" /></a>
