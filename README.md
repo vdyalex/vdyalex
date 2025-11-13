@@ -14,8 +14,8 @@ Expert in designing and developing cutting-edge applications focused on informat
 - In 2014, worked with front-end frameworks and mobile.
 - Improved front-end skills in 2016 with React, Angular 2, and Vue.js.
   Added React Native and started using Azure in 2017.
-- Became a Solutions Architect in 2018, focusing on AWS, DevOps and CI/CD. Used multiple types of databases and message queues, including time-series and graph.
-- In 2019, expanded expertise in AWS, GCP, Golang, Blockchain (Solidity, Smart Contracts), and Rust.
+- Became a Solutions Architect in 2018, focusing on AWS, DevOps and CI/CD. Used multiple types of high-availability databases and message queues, including time-series and graph, beyond creating scalable architectures.
+- In 2019, expanded expertise in AWS, GCP, Golang, Blockchain (Solidity, Smart Contracts), and Rust, creating a Blockchain ecosystem for trading cryptocoins.
 - In 2021, led platform-wide architecture as a Solutions Architect with distributed teams. Focused on team scaling, Agile methodologies (Scrum, SAFe, Kanban), CI/CD, orchestration, and testing practices.
 
 ### 🛠️ Technical skills
