@@ -6,8 +6,7 @@ I am a Solutions Architect with 20+ years of experience in software engineering 
 
 Expert in designing and developing cutting-edge applications focused on information security and software integration. Committed to achieving results, self-motivated, well organized, and with a good eye for detail. Passionate about learning new technologies.
 
-<details>
-<summary><strong>🎓 Background</strong></summary>
+#### 🎓 Background
 
 - Started software development in 2006 using PHP, Java, JavaScript, ColdFusion, MySQL, PostgreSQL, and desktop tools like Delphi and Flash (ActionScript).
 - Learned Python and Perl in 2010.
@@ -20,8 +19,6 @@ Expert in designing and developing cutting-edge applications focused on informat
   Used multiple types of databases, including time-series and graph.
 - In 2019, expanded expertise in AWS, GCP, Golang, Blockchain (Solidity, Smart Contracts), and Rust.
 - In 2021, led platform-wide architecture as a Solutions Architect with distributed teams. Focused on team scaling, Agile methodologies (Scrum, SAFe, Kanban), CI/CD, orchestration, and testing practices.
-
-</details>
 
 ### 🛠️ Technical skills
 
