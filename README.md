@@ -104,3 +104,14 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 - Analytics & BI: [Hotjar](https://hotjar.com), [Fullstory](https://fullstory.com), [Tableau](https://tableau.com), [Splunk](https://splunk.com), [Snowflake](https://snowflake.com), [VWO](https://vwo.com), [Amplitude](https://amplitude.com), [Segment](https://segment.com), [Fivetran](https://fivetran.com)
 
 </details>
+
+## Links
+
+<p>
+  <a href="https://linkedin.com/in/vdyalex" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B66C2.svg?&style=for-the-badge" /></a>
+  <a href="https://github.com/vdyalex" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-1F2329.svg?&style=for-the-badge" /></a>
+  <a href="https://t.me/vdyalex" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-189CDE.svg?&style=for-the-badge" /></a>
+  <a href="https://npmjs.com/~alexndreazevedo" target="_blank"><img alt="Npm" src="https://img.shields.io/badge/Npm-EA1F39.svg?&style=for-the-badge" /></a>
+  <a href="https://packagist.org/packages/alexndreazevedo" target="_blank"><img alt="Packagist" src="https://img.shields.io/badge/Packagist-424247.svg?&style=for-the-badge" /></a>
+  <a href="https://stackoverflow.com/users/2808769/alexndreazevedo" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-F48023.svg?&style=for-the-badge" /></a>
+</p>
