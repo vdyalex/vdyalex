@@ -8,7 +8,7 @@ I am a Solutions Architect with 20+ years of experience in software engineering 
 
 Expert in designing and developing cutting-edge applications focused on information security and software integration. Committed to achieving results, self-motivated, well organized, and with a good eye for detail. Passionate about learning new technologies.
 
-### 🎓 Background
+## 🎓 Background
 
 - Started software development in 2006 using PHP, Java, JavaScript, ColdFusion, MySQL, PostgreSQL, Delphi and Flash.
 - Learned Python and Perl in 2010 and firstly used Ruby in 2011.
