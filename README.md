@@ -8,7 +8,7 @@ Expert in designing and developing cutting-edge applications focused on informat
 
 #### 🎓 Background
 
-- Started software development in 2006 using PHP, Java, JavaScript, ColdFusion, MySQL, PostgreSQL, and desktop tools like Delphi and Flash (ActionScript).
+- Started software development in 2006 using PHP, Java, JavaScript, ColdFusion, MySQL, PostgreSQL, beyond Delphi and Flash.
 - Learned Python and Perl in 2010 and firstly used Ruby in 2011.
 - Started with Node.js and NoSQL (MongoDB, CouchDB, Redis) in 2013.
 - In 2014, worked with front-end frameworks and mobile.
