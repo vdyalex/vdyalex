@@ -9,13 +9,12 @@ Expert in designing and developing cutting-edge applications focused on informat
 #### 🎓 Background
 
 - Started software development in 2006 using PHP, Java, JavaScript, ColdFusion, MySQL, PostgreSQL, and desktop tools like Delphi and Flash (ActionScript).
-- Learned Python and Perl in 2010.
-- Used Ruby in 2011.
+- Learned Python and Perl in 2010 and firstly used Ruby in 2011.
 - Started with Node.js and NoSQL (MongoDB, CouchDB, Redis) in 2013.
-- In 2014, worked with front-end frameworks (AngularJS, Backbone, Ember) and mobile (iOS, Android, hybrid tools like Ionic and PhoneGap).
+- In 2014, worked with front-end frameworks and mobile.
 - Improved front-end skills in 2016 with React, Angular 2, and Vue.js.
   Added React Native and started using Microsoft Azure in 2017.
-- Became a Solutions Architect in 2018, focusing on AWS, DevOps (Docker, Kubernetes, Chef, Ansible), CI/CD, and message queues (Kafka, RabbitMQ).
+- Became a Solutions Architect in 2018, focusing on AWS, DevOps, CI/CD, and message queues.
   Used multiple types of databases, including time-series and graph.
 - In 2019, expanded expertise in AWS, GCP, Golang, Blockchain (Solidity, Smart Contracts), and Rust.
 - In 2021, led platform-wide architecture as a Solutions Architect with distributed teams. Focused on team scaling, Agile methodologies (Scrum, SAFe, Kanban), CI/CD, orchestration, and testing practices.
