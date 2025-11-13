@@ -12,9 +12,9 @@ Expert in designing and developing cutting-edge applications focused on informat
 
 - Started software development in 2006 using PHP, Java, JavaScript, ColdFusion, MySQL, PostgreSQL, Delphi and Flash.
 - Learned Python and Perl in 2010 and firstly used Ruby in 2011.
-- Started with Node.js and NoSQL (MongoDB, CouchDB, Redis) in 2013.
+- Started with Node and NoSQL (MongoDB, CouchDB, Redis) in 2013.
 - In 2014, worked with front-end frameworks and mobile.
-- Improved front-end skills in 2016 with React, Angular 2, and Vue.js.
+- Improved front-end skills in 2016 with React, Angular 2, and Vue.
   Added React Native and started using Azure in 2017.
 - Became a Solutions Architect in 2018, focusing on AWS, DevOps and CI/CD. Used multiple types of high-availability databases and message queues, including time-series and graph, beyond creating scalable architectures.
 - In 2019, expanded expertise in AWS, GCP, Golang, Blockchain (Solidity, Smart Contracts), and Rust, creating a Blockchain ecosystem for trading cryptocoins.
@@ -33,7 +33,7 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 
 - Python: [FastAPI](https://fastapi.tiangolo.com), [Django](https://djangoproject.com), [Flask](https://flask.palletsprojects.com), [PyTorch](https://pytorch.org), [TensorFlow](https://tensorflow.org), [NumPy](https://numpy.org), [Pandas](https://pandas.pydata.org), [SciPy](https://scipy.org), [PyUnit](https://wiki.python.org/moin/PyUnit), [Behave](https://behave.readthedocs.io), [Lettuce](https://pythonhosted.org/lettuce), [Celery](https://docs.celeryq.dev), [Huey](https://huey.readthedocs.io), [Poetry](https://python-poetry.org), [SQLAlchemy](https://sqlalchemy.org), [Alembic](https://alembic.sqlalchemy.org), [Gunicorn](https://gunicorn.org)
 
-- Node: [NestJS](https://nestjs.com), [Next.js](https://nextjs.org), [Express](https://expressjs.com), [Fastify](https://fastify.dev), [Koa](https://koajs.com), [Hapi](https://hapi.dev), [Sails](https://sailsjs.com), [Restify](https://restify.com), [Strapi](https://strapi.io), [Sequelize](https://sequelize.org), [Prisma](https://prisma.io), [TypeORM](http://typeorm.io), [Ethers](https://ethers.org), [web3.js](https://web3js.readthedocs.io), [AVA](https://github.com/avajs/ava), [Jest](https://jestjs.io), [Jasmine](https://jasmine.github.io), [Mocha](https://mochajs.org), [Chai](https://chaijs.com), [Sinon](https://sinonjs.org)
+- Node: [NestJS](https://nestjs.com), [Next](https://nextjs.org), [Express](https://expressjs.com), [Fastify](https://fastify.dev), [Koa](https://koajs.com), [Hapi](https://hapi.dev), [Sails](https://sailsjs.com), [Restify](https://restify.com), [Strapi](https://strapi.io), [Sequelize](https://sequelize.org), [Prisma](https://prisma.io), [TypeORM](http://typeorm.io), [Ethers](https://ethers.org), [web3.js](https://web3js.readthedocs.io), [AVA](https://github.com/avajs/ava), [Jest](https://jestjs.io), [Jasmine](https://jasmine.github.io), [Mocha](https://mochajs.org), [Chai](https://chaijs.com), [Sinon](https://sinonjs.org)
 
 - Java: [Spring](https://spring.io/projects/spring-framework), [Spring Boot](https://spring.io/projects/spring-boot), [Grails](https://grails.org), [Hibernate](https://hibernate.org), [jUnit](https://junit.org), [Selenium](https://www.selenium.dev), [Mockito](https://site.mockito.org), [Gradle](https://gradle.org), [Maven](https://maven.apache.org)
 
@@ -58,7 +58,7 @@ All relevant frameworks, databases, libraries, tools, and platforms with hands-o
 
 - Processors: [Webpack](https://webpack.js.org), [Parcel](https://parceljs.org), [Vite](https://vite.dev), [esbuild](https://esbuild.github.io), [Rollup](https://rollupjs.org), [tsup](https://github.com/egoist/tsup), [Sass](https://sass-lang.com), [Less](https://lesscss.org)
 
-- Libraries: [RxJS](https://rxjs.dev), [Redux](https://redux.js.org), [Zustand](https://zustand.docs.pmnd.rs), [MobX](https://github.com/mobxjs/mobx), [d3.js](https://d3js.org), [Cypress](https://cypress.io), [Jest](https://jestjs.io), [Mocha](https://mochajs.org), [Chai](https://chaijs.com), [Sinon](https://sinonjs.org), [Karma](https://karma-runner.github.io/latest/index.html), [Styled Components](https://styled-components.com), [Emotion](https://emotion.sh), [Radix UI](https://radix-ui.com), [shadcn](https://ui.shadcn.com), [Material UI](https://mui.com), [Ant Design](https://ant.design)
+- Libraries: [RxJS](https://rxjs.dev), [Redux](https://redux.js.org), [Zustand](https://zustand.docs.pmnd.rs), [MobX](https://github.com/mobxjs/mobx), [D3](https://d3js.org), [Cypress](https://cypress.io), [Jest](https://jestjs.io), [Mocha](https://mochajs.org), [Chai](https://chaijs.com), [Sinon](https://sinonjs.org), [Karma](https://karma-runner.github.io/latest/index.html), [Styled Components](https://styled-components.com), [Emotion](https://emotion.sh), [Radix UI](https://radix-ui.com), [shadcn](https://ui.shadcn.com), [Material UI](https://mui.com), [Ant Design](https://ant.design)
 
 </details>
 
