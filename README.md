@@ -113,7 +113,7 @@ Here's a detailed list of relevant frameworks, databases, libraries, tools, and 
 
 ## 🔗 Links
 
-Feel free to get to shoot a message! Here are some links you may get in touch with me.
+Feel free to get to shoot me a message! Here are some links you may get in touch with me.
 
 <p>
   <a href="https://linkedin.com/in/vdyalex" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B66C2.svg?&style=for-the-badge" /></a>
