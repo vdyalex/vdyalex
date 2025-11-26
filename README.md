@@ -45,13 +45,15 @@ Here's a detailed list of relevant frameworks, databases, libraries, tools, and 
 
 - Go: [Gin](https://gin-gonic.com), [Echo](https://echo.labstack.com), [Go Fiber](https://github.com/gofiber/fiber), [Go-kit](https://gokit.io), [GORM](https://gorm.io), [Cobra](https://cobra.dev)
 
+- Rust: [Actix](https://actix.rs), [Axum](https://docs.rs/axum), [Diesel](https://diesel.rs), [Tokio](https://tokio.rs), [Tonic](https://docs.rs/tonic), [Rayon](https://docs.rs/rayon), [Crossbeam](https://docs.rs/crossbeam)
+
 - Databases: [MySQL](https://mysql.com), [PostgreSQL](https://postgresql.org), [Oracle](https://oracle.com/database), [MongoDB](https://mongodb.com), [MariaDB](https://mariadb.org), [Neo4j](https://neo4j.com), [Elasticsearch](https://elastic.co/elasticsearch), [Cassandra](https://cassandra.apache.org), [Redis](https://redis.io), [RethinkDB](https://rethinkdb.com), [CouchDB](https://couchdb.apache.org), [Couchbase](https://couchbase.com), [SQLite](https://sqlite.org), [TimescaleDB](https://timescale.com), [Firebase](https://firebase.google.com/docs/database), [Firestore](https://firebase.google.com/docs/firestore), [Fireblocks](https://fireblocks.com), [Knack](https://knack.com), [Snowflake](https://snowflake.com)
 
 - Processing Queues: [Kafka](https://kafka.apache.org), [RabbitMQ](https://rabbitmq.com), [AMPQ](https://amqp.org), [ActiveMQ](https://activemq.apache.org), [PubNub](https://pubnub.com)
 
 - Communication Protocols: [REST](https://www.w3.org/2001/sw/wiki/REST), [SOAP](https://w3.org/TR/soap)/[WSDL](https://www.w3.org/TR/wsdl.html), [GraphQL](https://graphql.org), [RPC](https://datatracker.ietf.org/doc/html/rfc5531), [gRPC](https://grpc.io), [LDAP](https://datatracker.ietf.org/doc/html/rfc4511), [OpenID](https://openid.net), [OAuth2](https://datatracker.ietf.org/doc/html/rfc6749), [SAML](https://datatracker.ietf.org/doc/html/rfc7522)
 
-- Other Programming Languages: [Rust](https://rust-lang.org), [Solidity](https://soliditylang.org), [Groovy](https://groovy-lang.org), [Perl](https://perl.org), [C++](https://isocpp.org), [C](https://www.c-language.org), [Bash](https://gnu.org/software/bash), [Apex (Salesforce)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
+- Other Programming Languages: [Solidity](https://soliditylang.org), [Groovy](https://groovy-lang.org), [Perl](https://perl.org), [C++](https://isocpp.org), [C](https://www.c-language.org), [Bash](https://gnu.org/software/bash), [Apex (Salesforce)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
 
 </details>
 
