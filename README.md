@@ -4,9 +4,13 @@
 
 ## ✨ About me
 
-I am a Solutions Architect working as Head of Engineering. I bring over two decades of experience in software engineering focused on solutions for web, mobile, and integrations.
+Engineering leader with strong hands-on roots, shaped by nearly two decades of building and scaling software across backend, frontend, mobile, desktop, cloud, DevOps, and security. Deep exposure to regulated and high-risk domains such as fintech, crypto, and machine learning systems, LLM-based applications, and AI-driven workflows, with a solid foundation in solutions architecture, enterprise architecture, and cloud-native design.
 
-Throughout my career, I became expert in designing and developing cutting-edge applications focused on information security and software integration. You can see me ascommitted to achieving results, self-motivated, well-organized, and with a good-eye for detail. Beyond that, I'm Passionate about learning new technologies and sharing knowledge. 
+🔥 Some cool certs, vast skills, strong grounds in product/project management, and real-world experience in compliance and security.
+
+💪 Known for pragmatic architecture, clean execution, delivery with quality, and growing teams that ship reliable systems. 
+
+🚀 Continuous learning, mentoring, and exploring new technologies and trends are part of my morning routine.
 
 ---
 
