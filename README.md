@@ -6,11 +6,11 @@
 
 Engineering leader with strong hands-on roots, shaped by nearly two decades of building and scaling software across backend, frontend, mobile, desktop, cloud, DevOps, and security. Deep exposure to regulated and high-risk domains such as fintech, crypto, and machine learning systems, LLM-based applications, and AI-driven workflows, with a solid foundation in solutions architecture, enterprise architecture, and cloud-native design.
 
-🔥 Some cool certs, vast skills, grounds in project management, and real-world experience in compliance and security.
-
 💪 Known for pragmatic architecture, clean execution, delivery with quality, and growing teams that ship reliable systems. 
 
 🚀 Continuous learning, mentoring, and exploring new technologies and trends are part of my morning routine.
+
+🔥 Some cool certs, vast skills, grounds in project management, and real-world experience in compliance and security.
 
 ---
 
